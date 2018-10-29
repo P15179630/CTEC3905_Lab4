@@ -21,6 +21,10 @@ h1 {
   text-align: center;
 }
 
+.menu-toggle {
+  display: flex;
+}
+
 /*.menu:hover + nav {
   display: flex;
 }*/
