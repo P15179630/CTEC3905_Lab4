@@ -21,9 +21,9 @@ h1 {
   text-align: center;
 }
 
-.menu:hover + nav {
+/*.menu:hover + nav {
   display: flex;
-}
+}*/
 
 nav {
   display: none;
@@ -33,9 +33,9 @@ nav {
   background-color: #fff0f5;
 }
 
-nav:hover {
+/*nav:hover {
   display: flex;
-}
+}*/
 
 nav a {
   color: #ff1493;
